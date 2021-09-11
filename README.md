@@ -5,7 +5,7 @@
 
 ## Features:
 
-- Tests for Clickjacking vulnerability on various domains.
+- Tests for Clickjacking vulnerability on various domains
 - That's pretty much it.
 - And Yeah creates a POC for vulnerable domains too
 
