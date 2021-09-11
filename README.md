@@ -9,7 +9,7 @@
 - That's pretty much it.
 - And Yeah creates a POC for vulnerable domains too
 
-## Installation & Usage:
+## Installation & Usage: 
 
 ```
 $ git clone https://github.com/amykr777/massjacker
